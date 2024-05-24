@@ -151,7 +151,6 @@ cz c
 - Django Rest Framework 3.14.0
 
 ## Авторы
-- [Балахонова Марина](https://github.com/margoloko)
 - [Виноградов Сергей](https://github.com/yan-gabala)
 - [Раскатов Андрей](https://github.com/Diavolution)
 - [Климов Артем](https://github.com/grinchomsk)
